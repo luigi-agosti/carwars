@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="com.google.gwt.eclipse.core.GWT_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry excluding="**/*.java" kind="src" path="war/WEB-INF/classes"/>
+	<classpathentry excluding="WEB-INF/classes/" kind="src" path="war"/>
+	<classpathentry kind="var" path="M2_REPO/com/googlecode/forplay/core/1.0-SNAPSHOT/core-1.0-SNAPSHOT.jar" sourcepath="M2_REPO/com/googlecode/forplay/core/1.0-SNAPSHOT/core-1.0-SNAPSHOT-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/google/gwt/gwt-dev/2.3.0/gwt-dev-2.3.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/google/gwt/gwt-flash/1.0/gwt-flash-1.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/google/gwt/gwt-servlet/2.3.0/gwt-servlet-2.3.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/google/gwt/gwt-user/2.3.0/gwt-user-2.3.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/allen_sauer/gwt-voices/1.0.r421/gwt-voices-1.0.r421.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/googlecode/forplay/jbox2d/1.0-SNAPSHOT/jbox2d-1.0-SNAPSHOT.jar" sourcepath="M2_REPO/com/googlecode/forplay/jbox2d/1.0-SNAPSHOT/jbox2d-1.0-SNAPSHOT-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/jlayer/jlayer/1.0.1/jlayer-1.0.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/junit/junit/3.8.1/junit-3.8.1.jar"/>
+	<classpathentry kind="lib" path="/usr/lib/jvm/java-6-openjdk/lib/tools.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/googlecode/forplay/webgl/1.0-SNAPSHOT/webgl-1.0-SNAPSHOT.jar" sourcepath="M2_REPO/com/googlecode/forplay/webgl/1.0-SNAPSHOT/webgl-1.0-SNAPSHOT-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="war/WEB-INF/classes"/>
+</classpath>
